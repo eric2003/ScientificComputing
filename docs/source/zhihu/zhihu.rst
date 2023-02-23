@@ -134,3 +134,5 @@
 #. `Kaleidoscope Language tutorial系列链接整理. <https://zhuanlan.zhihu.com/p/577021475/>`_
 #. `tobyho.com. <https://zhuanlan.zhihu.com/p/577028713/>`_
 #. `Not all CPU operations are created equal. <https://zhuanlan.zhihu.com/p/581740764/>`_
+#. `科学计算相关资源整理Sphinx版. <https://zhuanlan.zhihu.com/p/607525863/>`_
+#. `国产CFD开源软件OneFLOW在GitHub上的文档构建. <https://zhuanlan.zhihu.com/p/608833628/>`_
